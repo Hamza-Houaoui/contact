@@ -1,0 +1,9 @@
+{
+  "appId": "com.contact.hh",
+  "appName": "Contact HH",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https",
+    "cleartext": true
+  }
+}
